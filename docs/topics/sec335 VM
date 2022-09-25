@@ -1,0 +1,9 @@
+The goal for this milestone would be to complete an exploit VM on the SHIRE network. 
+
+I will be building a VM on the SHIRE subnet to be exploited by the eth hack wan. This will give me experiance mainly on finding, demonstrating, and creating vulnerable systems. 
+
+Objectives
+1.) gain access to the shire network/create VM on shire 
+2.) find exploits/vulnerabilities I want to exploit
+3.) build the vm with exploits that leads to a root compromise
+
